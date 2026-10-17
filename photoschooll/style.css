@@ -1,0 +1,99 @@
+.body{
+    width: 1800px;
+}
+.header{
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+.flex a{
+    color: black;
+    text-decoration: none;
+}
+.flex{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-size: 20px;
+    height: 70px;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.logo{
+    height: 70px;
+}
+.background{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/orig.jpg) no-repeat center / cover;
+    height: 400px;
+    width: 1200px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+.slogan{
+    font-size: 70px;
+    color: white;
+    width: 600px;
+    padding-top: 70px;
+    padding-left: 180px;
+}
+.svet{
+    width: 300px;
+    height: 240px;
+    border-radius: 100px 0px 100px 0px;
+}
+.pl1{
+    background-color: white;
+    font-size: 20px;
+}
+.govno{
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+}
+.size{
+    font-size: 30px;
+}
+.slogan button{
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    padding: 20px;
+}
+.plashki{
+    width: 1200px;
+    padding-top: 50px;
+    margin: 0 auto;
+}
+.text{
+    text-align: center;
+    width: 1200px;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.pl2{
+    background-image: url(images/i\ \(1\).jpg);
+    font-size: 30px;
+    width: 400px;
+    height: 500px;
+    padding: 100px;
+    background-repeat: no-repeat;
+    bottom: 200px;
+}
+.otziv{
+    width: 200px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+.be{
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+    padding-bottom: 200px;
+}
