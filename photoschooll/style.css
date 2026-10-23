@@ -25,7 +25,7 @@
 }
 .background{
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(images/orig.jpg) no-repeat center / cover;
-    height: 400px;
+    height: 450px;
     width: 1200px;
     background-repeat: no-repeat;
     margin: 0 auto;
